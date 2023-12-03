@@ -148,6 +148,15 @@ list-style-type: none;
 .features-name{
     margin-bottom: 8px;
 }
+.features-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 112px;
+    background-color: #f4f4fd;
+    border-radius: 4px;
+    margin-bottom: 8px;
+}
 .button{ /*Кнопка під заголовком*/
     background:  #4D5AE5;
     color: #FFF;

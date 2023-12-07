@@ -410,6 +410,6 @@ margin-bottom: 16px;
         letter-spacing: 0.02em;
 }
 
-.footer-media-link:focus{
+.footer-media-link:hover, .footer-media-link:focus{
     background-color: #31D0AA;
 }

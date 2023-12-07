@@ -260,9 +260,9 @@ width: calc((100% - 72px) / 4);
 text-align: center;
 }
 
-.social-media{
+/* .social-media{
     margin-top: 8px;
-}
+} */
 .social-media-list{
     display: flex;
     gap: 24px;

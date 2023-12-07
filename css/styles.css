@@ -366,6 +366,7 @@ button:focus{
     background: #404BBF;
 }
 .down-part{
+
     padding: 100px 0;
 }
 .bottom-link{
@@ -375,6 +376,7 @@ button:focus{
 
 .down-part-content{
     display: flex;
+    align-items: baseline;
 }
 .footer-comment, .footer-media{
     margin-right: 120px;;
@@ -385,7 +387,6 @@ button:focus{
     justify-content: center;
     align-items: center;
     list-style-type: none;
-    margin-top: 16px;
 }
 
 .footer-media-text{
@@ -396,6 +397,7 @@ font-weight: 500;
 line-height: 1.5;
 /* 150% */
 letter-spacing: 0.02em;
+margin-bottom: 16px;
 }
 
 .overlay-text{
@@ -407,6 +409,6 @@ letter-spacing: 0.02em;
         letter-spacing: 0.02em;
 }
 
-.footer-media-link:hover{
+.footer-media-link:focus{
     background-color: #31D0AA;
 }
